@@ -6,5 +6,7 @@ Steps to Create the migrations:
 # Generating & Running Migrations
 Code First Migrations has two primary commands that you are going to become familiar with.
 
-# Add-Migration # will scaffold the next migration based on changes you have made to your model since the last migration was created
-# Update-Database # will apply any pending migrations to the database
+# Add-Migration
+Will scaffold the next migration based on changes you have made to your model since the last migration was created
+# Update-Database
+Will apply any pending migrations to the database
